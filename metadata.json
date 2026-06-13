@@ -1,0 +1,6 @@
+{
+  "name": "SFOR Admin",
+  "description": "SFOR Website Admin Panel featuring Tools, Tutorials, Comments, V2Ray Configs, and SFOR AI chat with custom Cyberpunk dark layout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
